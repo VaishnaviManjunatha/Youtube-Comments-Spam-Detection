@@ -1,5 +1,3 @@
-Commands and Queries
-
 //create a hive table by providing the location of the S3 bucket
 CREATE EXTERNAL TABLE YTcomments_data (
     comment_id STRING,
